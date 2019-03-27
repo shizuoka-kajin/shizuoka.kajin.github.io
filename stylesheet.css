@@ -5,3 +5,7 @@
 .header {
   font-family: serif;
 }
+
+li{
+  list-style:none;
+}
