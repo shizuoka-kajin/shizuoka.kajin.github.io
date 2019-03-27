@@ -1,0 +1,1 @@
+# shizuoka.kajin.github.io
