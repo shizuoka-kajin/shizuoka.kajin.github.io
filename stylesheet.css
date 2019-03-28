@@ -23,3 +23,7 @@ header {
 span{
   float: right;
 }
+
+.section{
+  boder-bottom:1px solid #a2a9b1;
+}
