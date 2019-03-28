@@ -1,14 +1,19 @@
 .header-logo {
   color: #02ccba;
-  padding: 20px 40px;
 }
 
 .header {
   font-family: serif;
 }
 
-li{
-  list-style:none;
+.heaer-list li{
   float: left;
-  padding: 33px 20px;
+}
+
+.footer-list li{
+  float: right;
+}
+
+li{
+    list-style:none;
 }
