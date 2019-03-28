@@ -2,11 +2,11 @@
   color: #02ccba;
 }
 
-.header {
+header {
   font-family: serif;
 }
 
-.heaer-list li{
+.header-list li{
   float: left;
 }
 
