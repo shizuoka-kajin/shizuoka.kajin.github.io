@@ -14,6 +14,8 @@ header {
   float: right;
 }
 
-li{
+*{
     list-style:none;
+    font-family: serif;
+    box-sizing: border-box;
 }
