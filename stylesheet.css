@@ -3,14 +3,10 @@
 }
 
 header {
-  font-family: serif;
   background-color: #f7f2b4;
 }
 
 .header-list li{
-  float: left;
-  font-size: 20px;
-  display:inline-block;
 }
 
 footer{
@@ -20,9 +16,6 @@ footer{
 body{
     list-style:none;
     font-family: serif;
-    box-sizing: border-box;
-    <!--background-image:url(https://free-texture.net/wp-content/uploads/Japanese-paper07-768x480.jpg);
-    background-size:cover;-->
 }
 
 span{
