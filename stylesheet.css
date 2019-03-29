@@ -9,23 +9,23 @@ header {
 .header-list li{
 }
 
-footer{
+footer {
   background-color: #ceccf3;
 }
 
-body{
+body {
     list-style:none;
     font-family: serif;
 }
 
-span{
+span {
   float: right;
 }
 
-.section{
+.section {
   border-bottom: 1px solid #a2a9b1;
 }
 
-.gray{
+.gray {
   background-color: #ceccf3;
 }
