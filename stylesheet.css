@@ -13,7 +13,7 @@ footer {
   background-color: #E6E6E6;
 }
 
-body {
+* {
     list-style:none;
     font-family: serif;
 }
