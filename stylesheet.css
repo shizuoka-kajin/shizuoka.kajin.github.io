@@ -4,6 +4,7 @@
 
 header {
   font-family: serif;
+  background-color: #f7f2b4;
 }
 
 .header-list li{
@@ -12,7 +13,7 @@ header {
 }
 
 .footer-list li{
-
+  background-color: #ceccf3;
 }
 
 *{
@@ -30,5 +31,5 @@ span{
 }
 
 .gray{
-  background-color: #dddddd;
+  background-color: #ceccf3;
 }
