@@ -1,5 +1,4 @@
-.header-logo {
-  color: #02ccba;.header-logo, .fotter-logo {
+.header-logo, .fotter-logo {
   color: #02ccba;
 }
 
@@ -9,38 +8,11 @@ header {
 
 .header-list li{
   float: left;
+  font-size: 10px;
 }
 
 .footer-list li{
 
-}
-
-*{
-    list-style:none;
-    font-family: serif;
-    box-sizing: border-box;
-}
-
-span{
-  float: right;
-}
-
-.section{
-  border-bottom: 1px solid #a2a9b1;
-}
-
-}
-
-header {
-  font-family: serif;
-}
-
-.header-list li{
-  float: left;
-}
-
-.footer-list li{
-  
 }
 
 *{
