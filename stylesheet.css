@@ -1,4 +1,4 @@
-.header-logo, .fotter-logo {
+.header-logo, .footer-logo {
   color: #02ccba;
 }
 
@@ -27,4 +27,8 @@ span{
 
 .section{
   border-bottom: 1px solid #a2a9b1;
+}
+
+.gray{
+  background-color: #dddddd;
 }
