@@ -3,26 +3,29 @@
 }
 
 header {
-  background-color: #E6E6E6;
+  background-color: #f7f2b4;
 }
 
-footer {
-  background-color: #E6E6E6;
+.header-list li{
 }
 
-body {
+footer{
+  background-color: #ceccf3;
+}
+
+body{
     list-style:none;
     font-family: serif;
 }
 
-span {
+span{
   float: right;
 }
 
-.section {
+.section{
   border-bottom: 1px solid #a2a9b1;
 }
 
-.gray {
-  background-color: #E6E6E6;
+.gray{
+  background-color: #ceccf3;
 }
